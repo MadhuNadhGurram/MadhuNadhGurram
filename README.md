@@ -13,7 +13,7 @@
   <a href="https://github.com/madhunadhgurram"><img src="https://img.shields.io/badge/GitHub-232F3E?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<p align="center"><b>Project Intern at Mindlinks Inc | Cloud & DevOps Enthusiast | Passionate about Automation
+<p align="center"><b>AI Tester at Mindlinks Inc | Cloud & DevOps Enthusiast | Passionate about Automation
   
 > 📍 Bengaluru, Karnataka, India
 
